@@ -32,6 +32,7 @@ Submissions
 We invite submission of contributed papers for presentation as posters and lightning talks.
 Submissions must follow the CVPR 2024 format and guidelines:
 
+- Length: 4 pages or 8 pages
 - Format: please use the `CVPR 2024 author kit with style file`_ 
 - Guidelines: see the `CVPR 2024 submission policies`_
 
