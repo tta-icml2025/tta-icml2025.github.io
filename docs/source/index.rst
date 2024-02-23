@@ -29,14 +29,23 @@ We have invited speakers and we will invite contributions on the topic of test-t
 Submissions
 -----------
 
-We invite submissions via OpenReview and will update this page with the submission link in the next days.
-Please see our :doc:`call_for_papers` for more details.
+We invite submission of contributed papers for presentation as posters and lightning talks.
+Submissions must follow the CVPR 2024 format and guidelines:
+
+- Format: please use the `CVPR 2024 author kit with style file`_ 
+- Guidelines: see the `CVPR 2024 submission policies`_
+
+.. _CVPR 2024 author kit with style file: https://github.com/cvpr-org/author-kit/releases`
+.. _CVPR 2024 submission policies: https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines
+
+We will take submissions through OpenReview and 🚧 **we will upodate this page with the submission link soon!** 🚧
 
 Important Dates
 ---------------
 
 .. note::
-   List of deadlines will be updated in the coming days.
+
+   The exact list of deadlines will be updated soon.
 
 - Submission Deadline: March 15th (AoE)
 - Reviews Posted: TBD
@@ -50,7 +59,7 @@ Invited Speakers
 
 .. note::
 
-   The full list of speakers is currently being finalized.
+   The full list of speakers will be updated soon.
 
 
 .. raw:: html
