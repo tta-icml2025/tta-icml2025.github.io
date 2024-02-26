@@ -30,29 +30,49 @@ Submissions
 -----------
 
 We invite submission of contributed papers for presentation as posters and lightning talks.
-Submissions must follow the CVPR 2024 format and guidelines:
+Our workshop has **two tracks**: the *proceedings/archival* track and the *community/non-archival* track.
+We are taking submissions through OpenReview and 🚧 *we will update this page with the submission link for the community track soon!* 🚧
 
-- Length: 4 pages or 8 pages
+**Proceedings Track**:
+
+- Archival / Included in the CVPR proceedings
+- Earlier Timeline (Submission Deadline: March 18 AoE) for publication with CVPR
+- 8 page papers
+- `Submit to the Proceedings Track`_
+
+.. _Submit to the Proceedings Track: https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MAT
+
+**Community Track**:
+
+- Non-Archival / Not included in the CVPR proceedings
+- Later Timeline (Submission Deadline: April 12 AoE) for sharing the most recent work
+- Can submit again or in parallel subject to rules of other venues (tip: pay attention to page length)
+- 4 or 8 page papers
+
+**Format & Guidelines**: Submissions must follow the CVPR 2024 format and guidelines.
+
 - Format: please use the `CVPR 2024 author kit with style file`_ 
 - Guidelines: see the `CVPR 2024 submission policies`_
 
 .. _CVPR 2024 author kit with style file: https://github.com/cvpr-org/author-kit/releases`
 .. _CVPR 2024 submission policies: https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines
 
-We will take submissions through OpenReview and 🚧 **we will upodate this page with the submission link soon!** 🚧
+
 
 Important Dates
 ---------------
 
-.. note::
-
-   The exact list of deadlines will be updated soon.
-
-- Submission Deadline: March 15th (AoE)
-- Reviews Posted: TBD
-- Camera Ready: TBD
+- Proceedings Track:
+   - Submission: March 18 (AoE)
+   - Reviewing: March 19–25
+   - Notification: April 3
+   - Camera-Ready: April 12 (AoE); note this is a strict deadline required by CVPR!
+- Community Track:
+   - Submission: April 12 (AoE)
+   - Reviewing: April 15–22
+   - Notification: April 26
+   - Camera-Ready: May 22
 - CVPR Workshop Date & Time: June 18th (AM)
-
 
 
 Invited Speakers
