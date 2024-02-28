@@ -54,7 +54,7 @@ We are taking submissions through OpenReview and 🚧 *we will update this page 
 - Format: please use the `CVPR 2024 author kit with style file`_ 
 - Guidelines: see the `CVPR 2024 submission policies`_
 
-.. _CVPR 2024 author kit with style file: https://github.com/cvpr-org/author-kit/releases`
+.. _CVPR 2024 author kit with style file: https://github.com/cvpr-org/author-kit/releases
 .. _CVPR 2024 submission policies: https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines
 
 
