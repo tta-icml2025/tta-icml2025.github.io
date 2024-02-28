@@ -15,7 +15,7 @@ The sheer scale of models and training data today underline the importance of le
 Focus Topics
 -------------
 
-We have invited speakers and we will invite contributions on the topic of test-time updates. Material of interest includes but is not limited to:
+We have invited speakers and we invite contributions on the topic of test-time updates. Material of interest includes but is not limited to:
 
 - **opportunities and challenges for test-time updates** necessitated by specific application settings or deployments (especially in production or in the wild);
 - **unsupervised or self-supervised losses** for optimization during testing;
@@ -31,7 +31,6 @@ Submissions
 
 We invite submission of contributed papers for presentation as posters and lightning talks.
 Our workshop has **two tracks**: the *proceedings/archival* track and the *community/non-archival* track.
-We are taking submissions through OpenReview and 🚧 *we will update this page with the submission link for the community track soon!* 🚧
 
 **Proceedings Track**:
 
@@ -52,10 +51,11 @@ We are taking submissions through OpenReview and 🚧 *we will update this page 
 
 .. _Submit to the Community Track: https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MAT_Community
 
-**Format & Guidelines**: Submissions must follow the CVPR 2024 format and guidelines.
+**Format, Guidelines, System**: Submissions must follow the CVPR 2024 format and guidelines.
 
 - Format: please use the `CVPR 2024 author kit with style file`_ 
 - Guidelines: see the `CVPR 2024 submission policies`_
+- System: we are taking submissions through OpenReview.
 
 .. _CVPR 2024 author kit with style file: https://github.com/cvpr-org/author-kit/releases
 .. _CVPR 2024 submission policies: https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines
