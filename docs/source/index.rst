@@ -46,8 +46,11 @@ We are taking submissions through OpenReview and 🚧 *we will update this page 
 
 - Non-Archival / Not included in the CVPR proceedings
 - Later Timeline (Submission Deadline: April 12 AoE) for sharing the most recent work
-- Can submit again or in parallel subject to rules of other venues (tip: pay attention to page length)
+- Can submit elsewhere again or in parallel subject to rules of other venues (tip: pay attention to page length)
 - 4 or 8 page papers
+- `Submit to the Community Track`_
+
+.. _Submit to the Community Track: https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MAT_Community
 
 **Format & Guidelines**: Submissions must follow the CVPR 2024 format and guidelines.
 
@@ -56,7 +59,6 @@ We are taking submissions through OpenReview and 🚧 *we will update this page 
 
 .. _CVPR 2024 author kit with style file: https://github.com/cvpr-org/author-kit/releases
 .. _CVPR 2024 submission policies: https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines
-
 
 
 Important Dates
