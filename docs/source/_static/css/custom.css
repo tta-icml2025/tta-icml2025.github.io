@@ -19,23 +19,19 @@
     }
 }
 
-.organizers {
+.people {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
 
 }
 
-.organizers > div {
+.people > div {
     text-align: center;
     margin: 5px;
 }
 
-.organizers > div > img {
+.people > div > img {
     max-width: 150px;
     width: 100%;
 }
 
-.speakers {
-    display: grid;
-    grid-auto-rows: auto;
-}
