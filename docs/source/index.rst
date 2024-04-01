@@ -53,7 +53,7 @@ Our workshop has **two tracks**: the *proceedings/archival* track and the *commu
 
 **Format, Guidelines, System**: Submissions must follow the CVPR 2024 format and guidelines.
 
-- Format: please use the `CVPR 2024 author kit with style file`_ 
+- Format: please use the `CVPR 2024 author kit with style file`_
 - Guidelines: see the `CVPR 2024 submission policies`_
 - System: we are taking submissions through OpenReview.
 
@@ -82,7 +82,7 @@ Invited Speakers
 
 .. note::
 
-   The full list of speakers will be updated soon.
+   The full speaker details will be updated soon.
 
 
 .. raw:: html
