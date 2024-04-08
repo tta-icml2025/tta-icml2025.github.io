@@ -99,7 +99,7 @@ html_theme_options = {
 }
 
 # TODO(stes): Replace with workshop logo
-html_logo = "logo.png"
+#html_logo = "logo.png"
 
 # Remove the search field for now
 html_sidebars = {"**": ["sidebar-nav-bs.html"]}
@@ -107,7 +107,7 @@ html_sidebars = {"**": ["sidebar-nav-bs.html"]}
 html_theme_options = {
     "logo": {
         "text": "1st Workshop on Test-Time Adaptation",
-        # "image_light": "_static/logo-light.png",
+       #  "image_light": "logo.png",
         # "image_dark": "_static/logo-dark.png",
     }
 }
