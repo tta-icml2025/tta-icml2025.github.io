@@ -3,6 +3,9 @@
 
 *CVPR 2024 workshop*
 
+.. image:: _static/logos/MAT_logo.png
+  :width: 400
+
 Deep learning for vision has made progress across tasks, domains, and settings by scaling to deeper models and longer training, first in AlexNet through VGG to ResNet, and now in the era of foundation models. As models have deepened, the set of applications has widened, and there are now countless kinds of data (personal, scientific, …) and deployments (in clouds, on cars, ...). Will all these use cases be solved in the limit of more data, parameters, and computation for training? A growing body of work proposes that learning during training alone is not enough, and argues that there is potential for learning during testing by test-time training / test-time adaptation (TTT/TTA) to keep updating during deployment.
 
 Test-time updates that optimize input statistics, self-supervision, and output measures like entropy have already shown promise. Positive analyses of robustness to natural shifts and negative analyses of robustness to adversarial shifts suggest there is still more to understand. At the same time, more efficient adaptation is needed for practical test-time use. Now is the time for a first workshop on this increasingly popular topic.
