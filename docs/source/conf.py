@@ -99,7 +99,7 @@ html_theme_options = {
 }
 
 # TODO(stes): Replace with workshop logo
-# html_logo = "logo.png"
+html_logo = "logo.png"
 
 # Remove the search field for now
 html_sidebars = {"**": ["sidebar-nav-bs.html"]}

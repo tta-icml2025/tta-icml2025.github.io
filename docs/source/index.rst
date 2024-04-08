@@ -4,8 +4,8 @@
 *CVPR 2024 workshop*
 
 .. image:: _static/logos/MAT_logo.png
-  :width: 200
-  :align: center
+  :width: 100
+  :align: right
 
 Deep learning for vision has made progress across tasks, domains, and settings by scaling to deeper models and longer training, first in AlexNet through VGG to ResNet, and now in the era of foundation models. As models have deepened, the set of applications has widened, and there are now countless kinds of data (personal, scientific, …) and deployments (in clouds, on cars, ...). Will all these use cases be solved in the limit of more data, parameters, and computation for training? A growing body of work proposes that learning during training alone is not enough, and argues that there is potential for learning during testing by test-time training / test-time adaptation (TTT/TTA) to keep updating during deployment.
 
