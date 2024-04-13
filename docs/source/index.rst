@@ -72,7 +72,7 @@ Important Dates
    - Submission: March 18 (AoE)
    - Reviewing: March 19–25
    - Notification: April 3
-   - Camera-Ready: April 12 (AoE); note this is a strict deadline required by CVPR!
+   - Camera-Ready: April 14 (11:59 PM PDT); note this is a strict deadline required by CVPR!
 - Community Track:
    - Submission: April 12 (AoE)
    - Reviewing: April 15–22
