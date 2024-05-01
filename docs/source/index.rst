@@ -104,11 +104,40 @@ Organizers
 Program Committee
 -----------------
 
-.. note::
+Thanks to the program committee for reviewing and deciding the program of the workshop!
+This is critical work and the organizers thank and recognize everyone who contributed.
+Please note that all are thanked equally and the ordering is randomized.
 
-   The final program committee will be listed here closer to the submission deadline.
+**Reviewers**
 
-Thanks a lot to the Program Committee for reviewing and contributing to shaping the program of the workshop!
+- Ori Press
+- Shyma Yaser Alhuwaider
+- Shaoteng Liu
+- Sarthak Kumar Maharana
+- Yasir M. Ghunaim
+- Francesco Croce
+- Andrés Villa
+- Sylvestre-Alvise Rebuffi
+- Sabbir Ahmed
+- Malik Boudiaf
+- Oğuzhan Fatih Kar
+- Devavrat Tomar
+- Sayna Ebrahimi
+- Shuaicheng Niu
+- Rohith Peddi
+
+**Area Chairs**
+
+- Evgenia Rusak
+- Francesco Croce
+- Motasem Alfarra
+- Evan Shelhamer
+
+**Program Chairs**
+
+- Evgenia Rusak
+- Steffen Schneider
+- Evan Shelhamer
 
 Contact
 -------
