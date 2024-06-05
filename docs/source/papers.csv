@@ -1,0 +1,13 @@
+Track, ID, Title, Authors
+Proc.,1,MixStyle-Based Contrastive Test-Time Adaptation: Pathway to Domain Generalization
+Proc.,2,Fully Test-time Adaptation for Object Detection
+Proc.,3,Test-time Specialization of Dynamic Neural Networks
+Proc.,4,ST2ST: Self-Supervised Test-time Adaptation for Video Action Recognition
+Proc.,5,Unknown Sample Discovery for Source Free Open Set Domain Adaptation
+Comm.,1,Test-time Adaptation for Regression by Subspace Alignment
+Comm.,2,Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models
+Comm.,3,Persistent Test-time Adaptation in Recurring Testing Scenarios
+Comm.,4,OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation
+Comm.,5,BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation
+Comm.,6,Adaptive Randomized Smoothing for Certified Multi-Step Defence
+Comm.,7,A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models

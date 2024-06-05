@@ -50,6 +50,13 @@ Invited Speakers
 .. raw:: html
     :file: speakers.html
 
+Accepted Papers
+---------------
+
+See all of the `accepted papers`_ in our proceedings and community tracks.
+
+.. _accepted papers: https://tta-cvpr2024.github.io/papers.html
+
 Organizers
 ----------
 
@@ -142,6 +149,7 @@ Please contact ``tta-cvpr2024@googlegroups.com`` if you have any questions.
 
    Home <self>
    Schedule <schedule>
+   Papers <papers>
 
 .. meta::
       :title: 1st Workshop on Test-Time Adaptation: Model, Adapt Thyself! (MAT)
