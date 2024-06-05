@@ -15,7 +15,6 @@ Our workshop aims to unite researchers on adaptation and robustness to push the 
 
 The sheer scale of models and training data today underline the importance of learning for vision. Adaptation will prove all the more important in a world where our most accurate models are enormous and their training becomes out-of-reach for many researchers and groups. Test-time adaptation of such models can remain accessible even if training and re-training do not. With our workshop we hope to promote a research vision with more models, not fewer, and the power to update them to our own purposes by test-time adaptation.
 
-
 Focus Topics
 -------------
 
@@ -29,56 +28,20 @@ We have invited speakers and we invite contributions on the topic of test-time u
 - **comparative and contrastive studies** of nearby methods, benchmarks, or tasks across changes in inputs (adaptation) and changes in outputs (continual learning) for mutual understanding and cross-pollination;
 - **adapting large-scale/foundation models** (LLMs, VLMs, etc.) to specialized or personalized domains.
 
-
-Submissions
------------
-
-We invite submission of contributed papers for presentation as posters and lightning talks.
-Our workshop has **two tracks**: the *proceedings/archival* track and the *community/non-archival* track.
-
-**Proceedings Track**:
-
-- Archival / Included in the CVPR proceedings
-- Earlier Timeline (Submission Deadline: March 18 AoE) for publication with CVPR
-- 8 page papers
-- `Submit to the Proceedings Track`_
-
-.. _Submit to the Proceedings Track: https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MAT
-
-**Community Track**:
-
-- Non-Archival / Not included in the CVPR proceedings
-- Later Timeline (Submission Deadline: April 12 AoE) for sharing the most recent work
-- Can submit elsewhere again or in parallel subject to rules of other venues (tip: pay attention to page length)
-- 4 or 8 page papers
-- `Submit to the Community Track`_
-
-.. _Submit to the Community Track: https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MAT_Community
-
-**Format, Guidelines, System**: Submissions must follow the CVPR 2024 format and guidelines.
-
-- Format: please use the `CVPR 2024 author kit with style file`_
-- Guidelines: see the `CVPR 2024 submission policies`_
-- System: we are taking submissions through OpenReview.
-
-.. _CVPR 2024 author kit with style file: https://github.com/cvpr-org/author-kit/releases
-.. _CVPR 2024 submission policies: https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines
-
-
 Important Dates
 ---------------
 
-- Proceedings Track:
+- **CVPR Workshop Date & Time**: June 18th (AM)
+- Proceedings Track (Done):
    - Submission: March 18 (AoE)
    - Reviewing: March 19–25
    - Notification: April 3
    - Camera-Ready: April 14 (11:59 PM PDT); note this is a strict deadline required by CVPR!
-- Community Track:
+- Community Track (Done):
    - Submission: April 12 (AoE)
    - Reviewing: April 15–22
    - Notification: April 26
    - Camera-Ready: May 22
-- CVPR Workshop Date & Time: June 18th (AM)
 
 
 Invited Speakers
@@ -138,6 +101,40 @@ Please note that all are thanked equally and the ordering is randomized.
 - Evgenia Rusak
 - Steffen Schneider
 - Evan Shelhamer
+
+Submissions (Done)
+------------------
+
+We invite submission of contributed papers for presentation as posters and lightning talks.
+Our workshop has **two tracks**: the *proceedings/archival* track and the *community/non-archival* track.
+
+**Proceedings Track**:
+
+- Archival / Included in the CVPR proceedings
+- Earlier Timeline (Submission Deadline: March 18 AoE) for publication with CVPR
+- 8 page papers
+- `Submit to the Proceedings Track`_
+
+.. _Submit to the Proceedings Track: https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MAT
+
+**Community Track**:
+
+- Non-Archival / Not included in the CVPR proceedings
+- Later Timeline (Submission Deadline: April 12 AoE) for sharing the most recent work
+- Can submit elsewhere again or in parallel subject to rules of other venues (tip: pay attention to page length)
+- 4 or 8 page papers
+- `Submit to the Community Track`_
+
+.. _Submit to the Community Track: https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MAT_Community
+
+**Format, Guidelines, System**: Submissions must follow the CVPR 2024 format and guidelines.
+
+- Format: please use the `CVPR 2024 author kit with style file`_
+- Guidelines: see the `CVPR 2024 submission policies`_
+- System: we are taking submissions through OpenReview.
+
+.. _CVPR 2024 author kit with style file: https://github.com/cvpr-org/author-kit/releases
+.. _CVPR 2024 submission policies: https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines
 
 Contact
 -------
