@@ -47,11 +47,6 @@ Important Dates
 Invited Speakers
 ----------------
 
-.. note::
-
-   The full speaker details will be updated soon.
-
-
 .. raw:: html
     :file: speakers.html
 
