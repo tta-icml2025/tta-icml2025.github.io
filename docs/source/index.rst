@@ -28,10 +28,11 @@ We have invited speakers and we invite contributions on the topic of test-time u
 - **comparative and contrastive studies** of nearby methods, benchmarks, or tasks across changes in inputs (adaptation) and changes in outputs (continual learning) for mutual understanding and cross-pollination;
 - **adapting large-scale/foundation models** (LLMs, VLMs, etc.) to specialized or personalized domains.
 
-Important Dates
----------------
+Logistics
+---------
 
-- **CVPR Workshop Date & Time**: June 18th (AM)
+- **Workshop Date & Time**: June 18th (AM)
+- **Workshop Location**: Summit 324
 - Proceedings Track (Done):
    - Submission: March 18 (AoE)
    - Reviewing: March 19–25
