@@ -5,7 +5,9 @@ Our workshop includes a proceedings/archival track and a community/non-archival 
 We are excited to host poster and lightning talk presentations of all contributed papers in both tracks.
 
 - For the poster session each paper has a number in 182–193.
-- For the lightning talks each paper has one slide in one minute in the [talk deck](https://docs.google.com/presentation/d/1Qj3QxE-GMILEkXLKmcCQsyVOFqn4nB4sUsX9ZvKgLpI/edit#slide=id.p).
+- For the lightning talks each paper has one slide in one minute in the `talk deck`_.
+
+.. _talk deck: https://docs.google.com/presentation/d/1Qj3QxE-GMILEkXLKmcCQsyVOFqn4nB4sUsX9ZvKgLpI/edit#slide=id.p
 
 **Proceedings**
 
