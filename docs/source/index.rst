@@ -28,6 +28,14 @@ We have invited speakers and we invite contributions on the topic of test-time u
 - **comparative and contrastive studies** of nearby methods, benchmarks, or tasks across changes in inputs (adaptation) and changes in outputs (continual learning) for mutual understanding and cross-pollination;
 - **adapting large-scale/foundation models** (LLMs, VLMs, etc.) to specialized or personalized domains.
 
+Content
+-------
+
+- See all of the `accepted papers`_  in our proceedings and community tracks.
+- See the `organizational slides`_ for the opening, schedule, awards, and closing.
+
+  .. _organizational slides: https://docs.google.com/presentation/d/19IYCYIjSSLfsP-wo1F1nBjju6amv_tRdlgMtueTCKYQ
+
 Logistics
 ---------
 
