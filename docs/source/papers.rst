@@ -24,7 +24,7 @@ We are thrilled to announce two best papers, once for each track, which were rew
       Sam Leroux, Dewant Katare, Aaron Ding, Pieter Simoens.
 - P4. (#185) :download:`ST2ST: Self-Supervised Test-time Adaptation for Video Action Recognition <papers/matp_5_st2st_self_supervised_test_tim.pdf>`.
       Masud An-Nur Islam Fahim, Mohammed Innat, Jani Boutellier.
-- P5. (#186) :download:`Unknown Sample Discovery for Source Free Open Set Domain Adaptation <papers/matp_6_unknown_sample_discovery_for_s.pdf>`.
+- P5. (#186) :download:`Unknown Sample Discovery for Source Free Open Set Domain Adaptation <papers/matp_6_unknown_sample_discovery_for_s.pdf>`. (:download:`poster <papers/matp_6_poster.pdf>`)
       Chowdhury Sadman Jahan, Andreas Savakis.
 
 **Community**
