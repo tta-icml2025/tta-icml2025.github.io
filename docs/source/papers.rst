@@ -7,7 +7,7 @@ We are excited to host poster and lightning talk presentations of all contribute
 - For the poster session each paper has a number in 182–193.
 - For the lightning talks each paper has one slide in one minute in the ⚡️ `lightning talk deck`_.
 
-.. _talk deck: https://docs.google.com/presentation/d/1Qj3QxE-GMILEkXLKmcCQsyVOFqn4nB4sUsX9ZvKgLpI/edit#slide=id.p
+.. _lightning talk deck: https://docs.google.com/presentation/d/1Qj3QxE-GMILEkXLKmcCQsyVOFqn4nB4sUsX9ZvKgLpI/edit#slide=id.p
 
 We are thrilled to announce two best papers, once for each track, which were rewarded with Theo's chocolate in-person in Seattle:
 
