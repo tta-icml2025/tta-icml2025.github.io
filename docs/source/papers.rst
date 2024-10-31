@@ -20,7 +20,7 @@ We are thrilled to announce two best papers, once for each track, which were rew
       Kota Yamashita & Kazuhiro Hotta.
 - P2. (#183). :download:`Fully Test-time Adaptation for Object Detection <papers/matp_2_fully_test_time_adaptation_for.pdf>`.
       Xiaoqian Ruan & Wei Tang.
-- P3. (#184). :download:`Test-time Specialization of Dynamic Neural Networks <papers/matp_4_test_time_specialization_of_dy.pdf>`.
+- P3. (#184). :download:`Test-time Specialization of Dynamic Neural Networks <papers/matp_4_test_time_specialization_of_dy.pdf>`. (:download:`poster <papers/matp_4_poster.pdf>`)
       Sam Leroux, Dewant Katare, Aaron Ding, Pieter Simoens.
 - P4. (#185) :download:`ST2ST: Self-Supervised Test-time Adaptation for Video Action Recognition <papers/matp_5_st2st_self_supervised_test_tim.pdf>`.
       Masud An-Nur Islam Fahim, Mohammed Innat, Jani Boutellier.
@@ -29,11 +29,11 @@ We are thrilled to announce two best papers, once for each track, which were rew
 
 **Community**
 
-- C1. (#187) :download:`Test-time Adaptation for Regression by Subspace Alignment <papers/matc_1_test_time_adaptation_for_regre.pdf>`.
+- C1. (#187) :download:`Test-time Adaptation for Regression by Subspace Alignment <papers/matc_1_test_time_adaptation_for_regre.pdf>`. (:download:`poster <papers/matc_1_poster.pdf>`)
       Kazuki Adachi, Shin'ya Yamaguchi, Atsutoshi Kumagai.
-- C2. (#188) :download:`Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models <papers/matc_2_just_shift_it_test_time_protot.pdf>`.
+- C2. (#188) :download:`Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models <papers/matc_2_just_shift_it_test_time_protot.pdf>`. (:download:`poster <papers/matc_2_poster.pdf>`)
       Elaine Sui, Xiaohan Wang, Serena Yeung-Levy.
-- C3. (#189) :download:`Persistent Test-time Adaptation in Recurring Testing Scenarios <papers/matc_3_persistent_test_time_adaptatio.pdf>`.
+- C3. (#189) :download:`Persistent Test-time Adaptation in Recurring Testing Scenarios <papers/matc_3_persistent_test_time_adaptatio.pdf>`. (:download:`poster <papers/matc_3_poster.pdf>`)
       Trung-Hieu Hoang, MinhDuc Vo, Minh N. Do.
 - C4. (#190) :download:`OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation <papers/matc_4_ot_vp_optimal_transport_guided.pdf>`.
       Yunbei Zhang, Akshay Mehra, Jihun Hamm.
