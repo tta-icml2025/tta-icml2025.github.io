@@ -7,6 +7,8 @@ Our second workshop on test-time adaptation will be held at ICML 2025 this summe
 **Scope** Note the increased scope from the last edition to now encompass test-time updates more broadly.
 As a workshop at ICML, it is important to host and cross-pollinate work across different learning settings and domains.
 
+Consider joining us to discover and contribute to the latest on updates after training: _the test begins now!_
+
 ### Call for Papers
 
 **Topics** We will welcome and highlight content on test-time and post-training updates:
@@ -23,8 +25,6 @@ As a workshop at ICML, it is important to host and cross-pollinate work across d
 **Format**
 We will welcome submission of short papers (= 4 pages). Accepted submissions will be selected for poster, lightning talk (= 1 slide in 1 minute), and oral presentation at the workshop.
 The workshop will not include proceedings.
-
-Consider joining us to discover and contribute to the latest on updates after training: the test begins now!
 
 ### Paper Submission
 
