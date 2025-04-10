@@ -28,7 +28,7 @@ The workshop will not include proceedings.
 
 ### Paper Submission
 
-The deadine for workshop submissions will be **May 19 2025 at midnight (AoE)**.
+**The deadine for workshop submissions will be May 19 2025 at midnight (AoE)**.
 
 The submission system on OpenReview will open soon: check back on Apr. 14.
 
