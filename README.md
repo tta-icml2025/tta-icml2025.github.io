@@ -42,4 +42,4 @@ If you have published on test-time adaptation, continual learning, model editing
 
 ### Contact Us
 
-Please reach the workshop organizers at tta_icml25@googlegroups.com.
+Please reach the workshop organizers at [tta_icml25@googlegroups.com](mailto:tta_icml25@googlegroups.com).
