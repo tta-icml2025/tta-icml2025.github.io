@@ -32,6 +32,14 @@ The deadine for workshop submissions will be **May 19 2025 at midnight (AoE)**.
 
 The submission system on OpenReview will open soon: check back on Apr. 14.
 
+### Call for Reviewers
+
+We are looking for qualified reviewers to help us select papers for the workshop.
+All reviewers will be credited for their academic service on the workshop site.
+If you have published on test-time adaptation, continual learning, model editing, and the other topics of our call then please volunteer.
+
+**Sign up to review:** https://forms.gle/RSmJqVXmm6nRanJE9
+
 ### Contact Us
 
 Please reach the workshop organizers at tta_icml25@googlegroups.com.
