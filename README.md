@@ -38,7 +38,7 @@ We are looking for qualified reviewers to help us select papers for the workshop
 All reviewers will be credited for their academic service on the workshop site.
 If you have published on test-time adaptation, continual learning, model editing, and the other topics of our call then please volunteer.
 
-**Sign up to review:** https://forms.gle/RSmJqVXmm6nRanJE9
+**Sign up to review:** [https://forms.gle/RSmJqVXmm6nRanJE9](https://forms.gle/RSmJqVXmm6nRanJE9)
 
 ### Contact Us
 
