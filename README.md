@@ -1,47 +1,25 @@
 # 2nd Workshop on Test-Time Adaptation:<br>Putting Updates to the Test! (PUT)
 
-See the Website: https://tta-icml2025.github.io/
+For the published page, please see https://tta-icml2025.github.io/.
 
-Our second workshop on test-time adaptation will be held at ICML 2025 this summer in Vancouver! 🚧 **The full site is coming soon!** 🚧
+## Development/updates
 
-**When** The workshop dates are Jul. 18 & 19 and the date for this workshop is still being decided by the ICML workshop chairs. Stay tuned!
+If you want to edit this site:
 
-**Scope** Note the increased scope from the last edition to now encompass test-time updates more broadly.
-As a workshop at ICML, it is important to host and cross-pollinate work across different learning settings and domains.
+- Main page: Edit [./docs/source/index.rst](./docs/source/index.rst)
+- Schedule: Edit [./docs/source/schedule.rst](./docs/source/schedule.rst)
+    - Schedule itself is generated from the data in [./docs/source/schedule.csv](./docs/source/schedule.csv)
+- Accepted papers: Edit [./docs/source/papers.rst](./docs/source/papers.rst)
+    - Papers are listed in [./docs/source/papers.csv](./docs/source/papers.csv)
+- Organizers: Edit [./docs/source/organizers.html](./docs/source/organizers.html)
+    - Organizer photos are in [./docs/source/_static/organizers](./docs/source/_static/organizers)
+- Speakers: Edit [./docs/source/speakers.rst](./docs/source/speakers.rst)
+    - Speaker photos are in [./docs/source/_static/speakers](./docs/source/_static/speakers)
 
-Consider joining us to discover and contribute to the latest on updates after training: _the test begins now!_
+To build the site locally:
 
-### Call for Papers
+```bash
+./build_docs.sh
+```
 
-**Topics** We will welcome and highlight content on test-time and post-training updates:
-
-- opportunities and challenges for test-time updates for specific applications or deployments;
-- unsupervised or self-supervised losses for optimization during testing;
-- parameterizations of updates to inputs, models, or outputs at any scale and for white-box and black-box systems (including updates to open or closed foundation model systems);
-- coping with test-time input shifts (domain adaptation), test-time attacks (adversarial defense), or test-time task changes (online continual learning);
-- metrics/datasets/benchmarks to validate and evaluate test-time updates by the changes in performance measures and the computation required;
-- adapting large-scale/foundation models (LLMs, VLMs, etc.) to specialized or personalized domains whether by in-context learning / adaptation / continual learning / editing.
-
-**Keywords** Adaptation, Continual Learning, Robustness, Personalization
-
-**Format**
-We will welcome submission of short papers (= 4 pages). Accepted submissions will be selected for poster, lightning talk (= 1 slide in 1 minute), and oral presentation at the workshop.
-The workshop will not include proceedings.
-
-### Paper Submission
-
-**The deadine is May 19 2025 at midnight (AoE)**.
-
-Please submit your work on OpenReview: [https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT](https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT)
-
-### Call for Reviewers
-
-We are looking for qualified reviewers to help us select papers for the workshop.
-All reviewers will be credited for their academic service on the workshop site.
-If you have published on test-time adaptation, continual learning, model editing, and the other topics of our call then please volunteer.
-
-**Sign up to review:** [https://forms.gle/RSmJqVXmm6nRanJE9](https://forms.gle/RSmJqVXmm6nRanJE9)
-
-### Contact Us
-
-Please reach the workshop organizers at [tta_icml25@googlegroups.com](mailto:tta_icml25@googlegroups.com).
+Each change merged to `main` will be automatically deployed to the published site.
