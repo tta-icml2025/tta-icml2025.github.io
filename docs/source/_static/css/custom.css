@@ -1,24 +1,3 @@
-.navbar-brand {
-    display: flex;
-    align-items: center;
-}
-
-.title {
-    margin-top: auto!important;
-    margin-bottom: auto!important;
-}
-
-.navbar-toggler {
-    margin-left: 10px;
-    order: -1;
-}
-
-@media (max-width: 960px){
-    .bd-sidebar {
-        display: none;
-    }
-}
-
 .people {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));

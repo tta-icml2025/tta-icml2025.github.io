@@ -16,12 +16,24 @@ from typing import List
 
 try:
     import render_papers
-
     render_papers.main()
 except Exception:
     print("Did not update papers.rst")
 
-autodoc_mock_imports = ["numpy", "torch", "torchvision", "surgeon_pytorch"]
+try:
+    import pkg_resources
+    print("\nPackage versions:")
+    with open("../requirements.txt") as f:
+        requirements = [line.strip() for line in f if line.strip()]
+        for package in requirements:
+            try:
+                version = pkg_resources.get_distribution(package).version
+                print(f"{package}: {version}")
+            except pkg_resources.DistributionNotFound:
+                print(f"{package}: Not installed")
+except Exception as e:
+    print(f"Could not print package versions: {e}")
+
 
 
 def get_years(start_year=2021):
@@ -81,6 +93,11 @@ html_theme = "pydata_sphinx_theme"
 
 # https://pydata-sphinx-theme.readthedocs.io/en/latest/user_guide/configuring.html
 html_theme_options = {
+    "logo": {
+        "text": "PUT 2025",
+       #  "image_light": "logo.png",
+        # "image_dark": "_static/logo-dark.png",
+    },
     "nosidebar": True,
     "icon_links": [
         {
@@ -90,7 +107,6 @@ html_theme_options = {
         },
     ],
     "external_links": [
-        # {"name": "Home", "url": "https://shift-happens-benchmark.github.io/"}
     ],
     "collapse_navigation": False,
     "navigation_depth": 4,
@@ -102,15 +118,7 @@ html_theme_options = {
 #html_logo = "logo.png"
 
 # Remove the search field for now
-html_sidebars = {"**": ["sidebar-nav-bs.html"]}
-
-html_theme_options = {
-    "logo": {
-        "text": "2nd Workshop on Test-Time Adaptation",
-       #  "image_light": "logo.png",
-        # "image_dark": "_static/logo-dark.png",
-    }
-}
+html_sidebars = {"**" : []}  # Empty dictionary to remove all sidebars
 
 html_show_sourcelink = False
 

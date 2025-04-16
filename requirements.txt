@@ -1,5 +1,0 @@
-pre-commit
-sphinx
-sphinx_autodoc_typehints
-sphinx_copybutton
-pydata_sphinx_theme
