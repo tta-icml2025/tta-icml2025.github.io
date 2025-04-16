@@ -4,7 +4,7 @@ set -xe
 
 DOCKERNAME=shifthappens/sphinx
 docker build -t $DOCKERNAME -f - docs << EOF
-FROM sphinxdoc/sphinx
+FROM sphinxdoc/sphinx:7.4.7
 COPY requirements.txt .
 RUN pip install --no-cache -r requirements.txt
 EOF

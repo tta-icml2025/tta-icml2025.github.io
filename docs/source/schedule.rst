@@ -1,7 +1,7 @@
 Workshop Schedule
 =================
 
-The workshop will take place in the morning of June 18th, 2024.
+The workshop dates are Jul. 18 & 19 and the date for this workshop is still being decided by the ICML workshop chairs. Stay tuned!
 
 .. rst-class:: table-hover
 
