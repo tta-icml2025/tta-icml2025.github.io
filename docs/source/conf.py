@@ -34,7 +34,7 @@ def get_years(start_year=2021):
 
 # -- Project information -----------------------------------------------------
 
-project = "1st Workshop on Test-Time Adaptation: Model, Adapt Thyself! (MAT)"
+project = "2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT)"
 author = "The organizing team"
 copyright = f"{get_years(2024)}, {author}"
 
@@ -85,7 +85,7 @@ html_theme_options = {
     "icon_links": [
         {
             "name": "Contact us!",
-            "url": "mailto:tta-cvpr2024@googlegroups.com",
+            "url": "mailto:tta_icml25@googlegroups.com",
             "icon": "fas fa-envelope",
         },
     ],
@@ -106,7 +106,7 @@ html_sidebars = {"**": ["sidebar-nav-bs.html"]}
 
 html_theme_options = {
     "logo": {
-        "text": "1st Workshop on Test-Time Adaptation",
+        "text": "2nd Workshop on Test-Time Adaptation",
        #  "image_light": "logo.png",
         # "image_dark": "_static/logo-dark.png",
     }
