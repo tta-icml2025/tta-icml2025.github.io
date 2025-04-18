@@ -1,5 +1,5 @@
 2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT)
-=======================================================================
+========================================================================
 
 *ICML 2025 workshop*
 
@@ -17,7 +17,7 @@ As a workshop at ICML, it is important to host and cross-pollinate work across d
 Consider joining us to discover and contribute to the latest on updates after training: *the test begins now!*
 
 Call for Papers
---------------
+---------------
 
 **Topics** We will welcome and highlight content on test-time and post-training updates:
 
@@ -35,14 +35,14 @@ We will welcome submission of short papers (= 4 pages). Accepted submissions wil
 The workshop will not include proceedings.
 
 Paper Submission
----------------
+----------------
 
-**The deadine is May 19 2025 at midnight (AoE)**.
+**The deadline is May 19 2025 at midnight (AoE)**.
 
 Please submit your work on OpenReview: `<https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT>`_
 
 Call for Reviewers
------------------
+------------------
 
 We are looking for qualified reviewers to help us select papers for the workshop.
 All reviewers will be credited for their academic service on the workshop site.
@@ -53,7 +53,8 @@ If you have published on test-time adaptation, continual learning, model editing
 Invited Speakers
 ----------------
 
-Coming soon!
+.. raw:: html
+    :file: speakers.html
 
 Organizers
 ----------
@@ -61,8 +62,6 @@ Organizers
 .. raw:: html
     :file: organizers.html
 
-
-.. |overview.svg| image:: overview.svg
 
 Program Committee
 -----------------
