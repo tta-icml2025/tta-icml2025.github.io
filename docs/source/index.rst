@@ -76,7 +76,7 @@ Coming soon
 Contact
 -------
 
-Please reach the workshop organizers at ``tta_icml25@googlegroups.com``.
+Please reach the workshop organizers at ``tta-icml25@googlegroups.com``.
 
 .. toctree::
    :maxdepth: 2
