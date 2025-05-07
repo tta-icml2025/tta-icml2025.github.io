@@ -31,7 +31,7 @@ Call for Papers
 **Keywords** Adaptation, Continual Learning, Robustness, Personalization
 
 **Format**
-We will welcome submission of short papers (= 4 pages). Accepted submissions will be selected for poster, lightning talk (= 1 slide in 1 minute), and oral presentation at the workshop.
+We will welcome submission of short papers (= 4 pages content without the references as well as an (optional) Appendix with an unlimited number of pages). Accepted submissions will be selected for poster, lightning talk (= 1 slide in 1 minute), and oral presentation at the workshop.
 The workshop will not include proceedings.
 
 *We welcome the submission of relevant, high-quality, short paper versions of papers accepted to the main conference.*
@@ -41,7 +41,8 @@ Paper Submission
 
 **The deadline is May 19 2025 at midnight (AoE)**.
 
-Please submit your work on OpenReview: `<https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT>`_
+Please submit your anonymized work on OpenReview: `<https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT>`_
+Please use the ICML 2025 style file from: `<https://icml.cc/Conferences/2025/AuthorInstructions>`_
 
 Call for Reviewers
 ------------------
