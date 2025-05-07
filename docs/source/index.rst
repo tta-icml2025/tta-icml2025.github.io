@@ -34,6 +34,8 @@ Call for Papers
 We will welcome submission of short papers (= 4 pages). Accepted submissions will be selected for poster, lightning talk (= 1 slide in 1 minute), and oral presentation at the workshop.
 The workshop will not include proceedings.
 
+_We welcome the submission of relevant, high-quality, short paper versions of papers accepted to the main conference._
+
 Paper Submission
 ----------------
 
