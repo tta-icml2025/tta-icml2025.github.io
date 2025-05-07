@@ -42,7 +42,7 @@ Paper Submission
 **The deadline is May 19 2025 at midnight (AoE)**.
 
 Please submit your anonymized work on OpenReview: `<https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT>`_.
-Please use the ICML 2025 style file from: `<https://icml.cc/Conferences/2025/AuthorInstructions>`_
+Please use the ICML 2025 style file from: `<https://icml.cc/Conferences/2025/AuthorInstructions>`_.
 
 Call for Reviewers
 ------------------
