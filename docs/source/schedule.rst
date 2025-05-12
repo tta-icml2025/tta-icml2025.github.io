@@ -1,7 +1,12 @@
 Workshop Schedule
 =================
 
-The workshop dates are Jul. 18 & 19 and the date for this workshop is still being decided by the ICML workshop chairs. Stay tuned!
+**When and Where.** The workshop will be held on Jul. 18! Come join us in Meeting 220-222.
+
+The workshop will host invited speakers, contributed talks and posters, paper
+awards, and a panel.
+
+Stay tuned for the final schedule!
 
 .. rst-class:: table-hover
 
