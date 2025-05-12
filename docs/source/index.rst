@@ -9,7 +9,7 @@
 
 Our second workshop on test-time adaptation will be held at ICML 2025 this summer in Vancouver!
 
-**When.** The workshop dates are Jul. 18 & 19 and the date for this workshop is still being decided by the ICML workshop chairs. Stay tuned!
+**When and Where.** The workshop will be held on Jul. 18! Come join us in Meeting 220-222.
 
 **Scope.** Note the increased scope from the last edition to now encompass test-time updates more broadly.
 As a workshop at ICML, it is important to host and cross-pollinate work across different learning settings and domains.
