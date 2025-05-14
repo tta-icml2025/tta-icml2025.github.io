@@ -44,6 +44,9 @@ Paper Submission
 Please submit your anonymized work on OpenReview: `<https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT>`_.
 Please use the ICML 2025 style file from: `<https://icml.cc/Conferences/2025/AuthorInstructions>`_.
 
+- Decisions: June 9th
+- Camera ready: July 9th
+
 Call for Reviewers
 ------------------
 
