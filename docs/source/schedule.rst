@@ -1,12 +1,19 @@
 Workshop Schedule
 =================
 
+
+.. note::
+
+   The exact schedule is still under construction 🚧
+   We fill finalize the timing after the review process.
+
 **When and Where.** The workshop will be held on Jul. 18! Come join us in Meeting 220-222.
 
-The workshop will host invited speakers, contributed talks and posters, paper
-awards, and a panel.
+The workshop will start at 9:15am and end at 5:30pm. See the detailed `Schedule`_ and our list of `Invited Talks`_ below.
 
-Stay tuned for the final schedule!
+
+Schedule
+--------
 
 .. rst-class:: table-hover
 
@@ -14,3 +21,9 @@ Stay tuned for the final schedule!
    :file: schedule.csv
    :widths: 40, 180
    :header-rows: 1
+
+Invited Talks
+-------------
+
+.. raw:: html
+    :file: speakers.html
