@@ -36,15 +36,12 @@ The workshop will not include proceedings.
 
 *We welcome the submission of relevant, high-quality, short paper versions of papers accepted to the main conference.*
 
-Paper Submission
-----------------
+Paper Submission (Done)
+-----------------------
 
-**The deadline is May 23 2025 at midnight (AoE)**.
+**The deadline is done! It was May 23 2025 at midnight (AoE)**.
 
-Update: The deadline is extended to Fri. May 23 (it was May 19) and we hope this update helps!
-
-Please submit your anonymized work on OpenReview: `<https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT>`_.
-Please use the ICML 2025 style file from: `<https://icml.cc/Conferences/2025/AuthorInstructions>`_.
+Please see the system on OpenReview: `<https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT>`_.
 
 - Decisions: June 9th
 - Camera ready: July 9th
