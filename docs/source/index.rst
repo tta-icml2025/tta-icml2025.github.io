@@ -46,14 +46,14 @@ Please see the system on OpenReview: `<https://openreview.net/group?id=ICML.cc/2
 - Decisions: June 9th
 - Camera ready: July 9th
 
-Call for Reviewers
-------------------
+Call for Reviewers (Done)
+------------------------
+
+**Thank you to all of our volunteers who signed up to review! The review period has already begun and the sign-up form is now closed.**
 
 We are looking for qualified reviewers to help us select papers for the workshop.
 All reviewers will be credited for their academic service on the workshop site.
 If you have published on test-time adaptation, continual learning, model editing, and the other topics of our call then please volunteer.
-
-**Sign up to review:** `<https://forms.gle/RSmJqVXmm6nRanJE9>`_
 
 Invited Speakers
 ----------------
