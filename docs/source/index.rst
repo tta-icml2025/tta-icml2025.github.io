@@ -44,7 +44,7 @@ Bonus Track Submission
 We invite content for a “bonus track” of our workshop to better broadcast projects, progress, and announcements from and for the community.
 What could be more in the spirit of test-time updates?
 
-- Bonus track submission form: `https://forms.gle/fwiBcWavWBb2eopU9`_.
+- Bonus track submission form: `<https://forms.gle/fwiBcWavWBb2eopU9>`_.
 
 The bonus slides will be auto-played during the poster sessions and breaks plus linked here for virtual attendees.
 
