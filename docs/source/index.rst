@@ -36,6 +36,18 @@ The workshop will not include proceedings.
 
 *We welcome the submission of relevant, high-quality, short paper versions of papers accepted to the main conference.*
 
+Bonus Track Submission
+----------------------
+
+**Submit one-slide updates to share at our bonus track by Jul. 14 2025 at midnight (AoE)**.
+
+We invite content for a “bonus track” of our workshop to better broadcast projects, progress, and announcements from and for the community.
+What could be more in the spirit of test-time updates?
+
+- Bonus track submission form: `https://forms.gle/fwiBcWavWBb2eopU9`_.
+
+The bonus slides will be auto-played during the poster sessions and breaks plus linked here for virtual attendees.
+
 Paper Submission (Done)
 -----------------------
 
