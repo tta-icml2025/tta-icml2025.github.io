@@ -36,6 +36,12 @@ The workshop will not include proceedings.
 
 *We welcome the submission of relevant, high-quality, short paper versions of papers accepted to the main conference.*
 
+Invited Speakers
+----------------
+
+.. raw:: html
+    :file: speakers.html
+
 Bonus Track Submission
 ----------------------
 
@@ -66,12 +72,6 @@ Call for Reviewers (Done)
 We are looking for qualified reviewers to help us select papers for the workshop.
 All reviewers will be credited for their academic service on the workshop site.
 If you have published on test-time adaptation, continual learning, model editing, and the other topics of our call then please volunteer.
-
-Invited Speakers
-----------------
-
-.. raw:: html
-    :file: speakers.html
 
 Organizers
 ----------
