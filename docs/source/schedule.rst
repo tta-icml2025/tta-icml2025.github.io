@@ -9,7 +9,7 @@ Workshop Schedule
 
 **When and Where.** The workshop will be held on Jul. 18! Come join us in Meeting 220-222.
 
-The workshop will start at 9:00am sharp and end by 5:30pm. See the detailed `Schedule`_ and our list of `Invited Talks`_ below.
+The workshop will start at 9:00am sharp and end by 5:45pm. See the detailed `Schedule`_ and our list of `Invited Talks`_ below.
 
 
 Schedule
