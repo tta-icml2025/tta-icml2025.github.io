@@ -17,7 +17,7 @@ Schedule
 
 .. rst-class:: table-hover
 
-.. csv-table:: Schedule
+.. csv-table:: schedule
    :file: schedule.csv
    :widths: 40, 180
    :header-rows: 1
