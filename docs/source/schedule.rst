@@ -19,7 +19,7 @@ Schedule
 
 .. csv-table:: schedule
    :file: schedule.csv
-   :widths: 40, 180
+   :widths: 40, 180, 180
    :header-rows: 1
 
 Invited Talks
