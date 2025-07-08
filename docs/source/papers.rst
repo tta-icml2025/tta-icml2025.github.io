@@ -6,5 +6,5 @@ Accepted Papers
 
 .. csv-table:: papers
    :file: papers.csv
-   :widths: 20, 580, 130
+   :widths: 20, 580, 250, 130
    :header-rows: 1
