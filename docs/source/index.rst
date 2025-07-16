@@ -176,14 +176,14 @@ We thank all of our reviewrs, area chairs, and program chairs for volunteering t
 
 **Area Chairs**
 
-_ Francesco Croce
-_ Yunhui Guo
+- Francesco Croce
+- Yunhui Guo
 - Sarthak Kumar Maharana
-_ Marc Masana
-_ Evgenia Rusak
-_ Steffen Schneider
-_ Evan Shelhamer
-_ Teresa Yeo
+- Marc Masana
+- Evgenia Rusak
+- Steffen Schneider
+- Evan Shelhamer
+- Teresa Yeo
 
 **Program Chairs**
 
