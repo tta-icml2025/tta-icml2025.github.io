@@ -42,17 +42,15 @@ Invited Speakers
 .. raw:: html
     :file: speakers.html
 
-Bonus Track Submission
-----------------------
+Bonus Track Submission (Done)
+-----------------------------
 
-**Submit one-slide updates to share at our bonus track by Jul. 14 2025 at midnight (AoE)**.
+**Thank you to everyone who sent in one-slide updates to share at our bonus track**.
 
 We invite content for a “bonus track” of our workshop to better broadcast projects, progress, and announcements from and for the community.
 What could be more in the spirit of test-time updates?
 
-- Bonus track submission form: `<https://forms.gle/fwiBcWavWBb2eopU9>`_.
-
-The bonus slides will be auto-played during the poster sessions and breaks plus linked here for virtual attendees.
+The `bonus slides <https://docs.google.com/presentation/d/1wFJGXpqP2ncBVmCjUI1XLtIW5Hgub0wNNbLYFZ_Y9NI/edit?slide=id.g3699d5f981b_0_0#slide=id.g3699d5f981b_0_0>`_ will be auto-played during the poster sessions and breaks and are shared online: `
 
 Paper Submission (Done)
 -----------------------
