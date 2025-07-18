@@ -193,9 +193,9 @@ Logistics
 ---------
 
 The workshop is held on Friday July 18 at the Vancouver convention center (West) in rooms 220-222.
-The venue will open at _8:30am_ and the event will begin at _9:00am_.
+The venue will open at 8:30am and the event will begin at 9:00am.
 
-Registered attendees can refer to the full schedule and livestream on icml.cc: `https://icml.cc/virtual/2025/workshop/39974`_.
+Registered attendees can refer to the full schedule and livestream on icml.cc: https://icml.cc/virtual/2025/workshop/39974.
 
 Note for poster presenters: morning posters should go up during 8:30-9am before the start and afternoon posters should go up 12:30-1pm before the end of lunch.
 

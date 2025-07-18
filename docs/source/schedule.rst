@@ -6,7 +6,7 @@ Workshop Schedule
 
 The workshop will start at 9:00am sharp and end by 5:50pm. See the detailed `Schedule`_ and our list of `Invited Talks`_ below.
 
-Registered attendees can refer to the full schedule and livestream on icml.cc: `https://icml.cc/virtual/2025/workshop/39974`_.
+Registered attendees can refer to the full schedule and livestream on icml.cc: https://icml.cc/virtual/2025/workshop/39974.
 
 Schedule
 --------
