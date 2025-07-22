@@ -1,7 +1,7 @@
 Accepted Papers
 ===============
 
-Please see all of the contributed work at `https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT`_.
+Please see all of the contributed work at https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT.
 
 .. rst-class:: table-hover
 
