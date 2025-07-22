@@ -1,7 +1,7 @@
 2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT)
 ========================================================================
 
-*ICML 2025 workshop*
+*ICML 2025 workshop*: see the `official site <https://icml.cc/virtual/2025/workshop/39974>`_ for the detailed schedule, livestream and recording, etc.
 
 .. image:: _static/logos/PUT_logo.png
   :width: 200
