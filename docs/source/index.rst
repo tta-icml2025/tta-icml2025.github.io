@@ -50,7 +50,7 @@ Bonus Track Submission (Done)
 We invite content for a “bonus track” of our workshop to better broadcast projects, progress, and announcements from and for the community.
 What could be more in the spirit of test-time updates?
 
-The `bonus slides <https://docs.google.com/presentation/d/1wFJGXpqP2ncBVmCjUI1XLtIW5Hgub0wNNbLYFZ_Y9NI/edit?slide=id.g3699d5f981b_0_0#slide=id.g3699d5f981b_0_0>`_ will be auto-played during the poster sessions and breaks and are shared online: `
+The `bonus slides <https://docs.google.com/presentation/d/1wFJGXpqP2ncBVmCjUI1XLtIW5Hgub0wNNbLYFZ_Y9NI/edit?slide=id.g3699d5f981b_0_0#slide=id.g3699d5f981b_0_0>`_ will be auto-played during the poster sessions and breaks and are shared online`.
 
 Paper Submission (Done)
 -----------------------
